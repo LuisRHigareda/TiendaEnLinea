@@ -1,0 +1,29 @@
+{
+  "name": "tiendaenlinea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisRHigareda/TiendaEnLinea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LuisRHigareda/TiendaEnLinea/issues"
+  },
+  "homepage": "https://github.com/LuisRHigareda/TiendaEnLinea#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
