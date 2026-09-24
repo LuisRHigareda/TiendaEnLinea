@@ -25,7 +25,7 @@ Sistema de comercio electrónico enfocado en la venta de ropa casual.
 
 En el siguiente video se presenta el proyecto, su dominio, las principales reglas de negocio y parte de su funcionamiento.
 
-[Ver video del proyecto en YouTube](Link)
+[Ver video del proyecto en YouTube](https://youtu.be/As3NUS-Vl9o)
 
 ---
 
