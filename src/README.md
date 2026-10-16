@@ -17,6 +17,7 @@ Después de descargar o clonar el repositorio, instalar las dependencias con:
 
 ```bash
 npm install
+```
 
 ## Documentación del proyecto
 
